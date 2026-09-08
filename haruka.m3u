@@ -1,0 +1,125 @@
+#EXTM3U url-tvg="https://haru.charandom.blog/epg/kai-epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+# 地デジ関東
+#EXTINF:-1 group-title="Tokyo" tvg-id="gd01" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK総合・東京
+http://haruka-ipip.f5.si:9394/stream/14.m3u8
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="gd02" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHKEテレ東京
+http://haruka-ipip.f5.si:9394/stream/3.m3u8
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="gd03" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png",日本テレビ
+http://haruka-ipip.f5.si:9394/stream/4.m3u8
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="gd06" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png",テレビ朝日
+http://haruka-ipip.f5.si:9394/stream/7.m3u8
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="gd04" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png",TBS
+http://haruka-ipip.f5.si:9394/stream/5.m3u8
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="gd07" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png",テレビ東京
+http://haruka-ipip.f5.si:9394/stream/8.m3u8
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="gd05" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png",フジテレビジョン
+http://haruka-ipip.f5.si:9394/stream/12.m3u8
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="gd08" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png",TOKYO MX1
+http://haruka-ipip.f5.si:9394/stream/17.m3u8
+
+# 地デジ関西
+#EXTINF:-1 group-title="Kansai" tvg-id="gx06" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D70-011-400x400.png",NHK G Osaka
+http://haruka-ipip.f5.si:9394/stream/25.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="JOOKDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D70-011-400x400.png",NHK G Kyoto
+http://haruka-ipip.f5.si:9394/stream/321.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="gd02" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHK E Osaka
+http://haruka-ipip.f5.si:9394/stream/322.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="gx04" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD5-101-400x400.png",ytv
+http://haruka-ipip.f5.si:9394/stream/21.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="gx02" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png",ABC
+http://haruka-ipip.f5.si:9394/stream/28.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="gx01" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD2-041-400x400.png",MBS
+http://haruka-ipip.f5.si:9394/stream/18.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="gx05" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D76-071-400x400.png",TV Osaka
+http://haruka-ipip.f5.si:9394/stream/22.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="gx03" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD4-081-400x400.png",Kansai TV
+http://haruka-ipip.f5.si:9394/stream/20.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D66-051-400x400.png" ,KBS
+http://haruka-ipip.f5.si:9394/stream/116.m3u8
+
+
+# BS
+#EXTINF:-1 group-title="BS" tvg-id="NHKBS.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
+http://haruka-ipip.f5.si:9394/stream/32.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="bs02" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
+http://haruka-ipip.f5.si:9394/stream/44.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="bs03" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
+http://haruka-ipip.f5.si:9394/stream/35.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="bs04" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
+http://haruka-ipip.f5.si:9394/stream/36.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="bs05" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
+http://haruka-ipip.f5.si:9394/stream/37.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="bs06" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png",BS Fuji
+http://haruka-ipip.f5.si:9394/stream/38.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="bs15" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png",Animax
+http://haruka-ipip.f5.si:9394/stream/56.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="BS11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS11
+http://haruka-ipip.f5.si:9394/stream/157.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="bs01" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BSP4K
+http://haruka-ipip.f5.si:9394/stream/163.m3u8
+
+
+# CS
+
+#EXTINF:-1 group-title="CS" tvg-id="jp83" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_80.png",AT-X
+http://haruka-ipip.f5.si:9394/stream/107.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="neco_ch" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_46.png",NECO Ch
+http://haruka-ipip.f5.si:9394/stream/83.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="cs08" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png", Discovery Channel
+http://haruka-ipip.f5.si:9394/stream/99.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="cs09" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png", History
+http://haruka-ipip.f5.si:9394/stream/309.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="cs10" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png", National Geographic Japan
+http://haruka-ipip.f5.si:9394/stream/75.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="cs12" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png", Tabi Channel
+http://haruka-ipip.f5.si:9394/stream/138.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="jp76" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_90.png",Tetsudo Channel
+http://haruka-ipip.f5.si:9394/stream/158.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png",TV Asahi Channel 2
+http://haruka-ipip.f5.si:9394/stream/161.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="ntv_news24" tvg-logo="https://xuanzi-storage.netgenx.site/",日テレ News24
+http://haruka-ipip.f5.si:9394/stream/112.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="cs11" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS News
+http://haruka-ipip.f5.si:9394/stream/233.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="cs15" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png", BBC News
+http://haruka-ipip.f5.si:9394/stream/97.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="cs16" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png", CNNj
+http://haruka-ipip.f5.si:9394/stream/315.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="cs16" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png", CNN
+http://haruka-ipip.f5.si:9394/stream/96.m3u8
